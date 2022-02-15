@@ -1,0 +1,20 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "node.js express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selicens/nodePractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selicens/nodePractice/issues"
+  },
+  "homepage": "https://github.com/selicens/nodePractice#readme"
+}
