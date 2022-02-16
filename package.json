@@ -4,7 +4,7 @@
   "description": "node.js express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./express/app.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/selicens/nodePractice/issues"
   },
-  "homepage": "https://github.com/selicens/nodePractice#readme"
+  "homepage": "https://github.com/selicens/nodePractice#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1"
+  }
 }
